@@ -1,4 +1,4 @@
-# Amazon-Apparel-Recommendations
+# Amazon-Apparel-Recommendations-Engine
 
 
 Recommending similar products (apparel) to the given product (apparel) in any e-commerce websites.
